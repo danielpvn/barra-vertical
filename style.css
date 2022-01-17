@@ -22,3 +22,12 @@ a:hover {
     background-position: right bottom;
     color: #fff;
 }
+
+#home .home a ,
+#sobre .sobre a,
+#servicos .servicos a,
+#noticias .noticias a ,
+#contato .contato a{
+    background-position: right bottom;
+    color: #fff;
+}
